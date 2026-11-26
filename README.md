@@ -1,5 +1,7 @@
 # TaskFlow — Kanban Full Stack
 
+**Repositório:** https://github.com/WilliamTi02/taskflow · **Demo:** em breve
+
 Projeto de portfólio: quadro de tarefas com login, CRUD, filtros e API REST.
 
 **Stack:** React + TypeScript (Vite) · Node.js + Express + TypeScript · SQLite (`node:sqlite`) · JWT · Zod · testes com `node:test`.
